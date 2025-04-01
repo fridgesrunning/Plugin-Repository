@@ -1,7 +1,7 @@
 ﻿{
     "Name": "AdaptiveBezierInterpolator",
     "Owner": "fridgesrunning",
-    "Description": "DO NOT INSTALL THIS before Adaptive Radial Follow. cheers",
+    "Description": "DO NOT INSTALL THIS before Adaptive Radial Follow. BezierInterpolator but slightly modified in an attempt to synergize with ARF.",
     "PluginVersion": "1.1.1",
     "SupportedDriverVersion": "0.6.5.0",
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/AdaptiveBezierInterpolator",
