@@ -1,0 +1,13 @@
+﻿{
+    "Name": "AdaptiveBezierInterpolator",
+    "Owner": "fridgesrunning",
+    "Description": "DO NOT INSTALL THIS before Adaptive Radial Follow. cheers",
+    "PluginVersion": "1.2.1",
+    "SupportedDriverVersion": "0.6.5.0",
+    "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/AdaptiveRadialFollow",
+    "DownloadUrl": "https://github.com/fridgesrunning/AdaptiveRadialFollow/releases/download/ABZ1.1.0/AdaptiveBezierInterpolator.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "87463512dc1c4ab562a27fb20b3d90d64ba46ab75b4cccec0ca3eaa595f58f6e",
+    "WikiUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/AdaptiveBezierInterpolator/blob/master/AdaptiveBezierInterpolator/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
