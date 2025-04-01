@@ -2,7 +2,7 @@
     "Name": "AdaptiveBezierInterpolator",
     "Owner": "fridgesrunning",
     "Description": "DO NOT INSTALL THIS before Adaptive Radial Follow. cheers",
-    "PluginVersion": "1.2.1",
+    "PluginVersion": "1.1.0",
     "SupportedDriverVersion": "0.6.5.0",
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/AdaptiveBezierInterpolator",
     "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ABZ1.1.0/AdaptiveBezierInterpolator.zip",
