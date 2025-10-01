@@ -5,9 +5,9 @@
     "PluginVersion": "2.0.0.1",
     "SupportedDriverVersion": "0.6.5.0",
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/tree/master/AdaptiveRadialFollow",
-    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ARF2.0.0.1/AdaptiveRadialFollow.zip",
+    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ARF2.0.0.2/AdaptiveRadialFollow.zip",
     "CompressionFormat": "zip",
-    "SHA256": "837ae4d8036fdc657ae0b5fa11be6b32776a8f4308d96877a26a95d02c7593e6",
+    "SHA256": "91152c145db6b51e027edc6c68368c23a1cced4ec306eab16fb0ae18d00d868a",
     "WikiUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/blob/master/AdaptiveRadialFollow/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
