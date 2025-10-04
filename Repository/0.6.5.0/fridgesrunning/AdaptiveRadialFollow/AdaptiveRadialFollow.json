@@ -1,7 +1,7 @@
 ﻿{
     "Name": "Adaptive Radial Follow",
     "Owner": "fridgesrunning",
-    "Description": "(Extend window horizontally) ATTENTION!!! Install and enable this BEFORE any interpolator, like temporal (smooth cursortrail acts weird) or AdaptiveBezierInterpolator (might have the slightest bit of latency, but works better with smooth cursortrail.) This is AbstractQBit's Radial Follow, but modified to not do anything if cursor velocity/accel are low enough.",
+    "Description": "(Extend window horizontally) ATTENTION!!! Install and enable this BEFORE any interpolator, like temporal (smooth cursortrail acts weird) or AdaptiveBezierInterpolator (might have the slightest bit of latency, but works better with smooth cursortrail.) This is AbstractQBit's Radial Follow, but modified to not do anything if certain conditions are met",
     "PluginVersion": "2.0.1.1",
     "SupportedDriverVersion": "0.6.5.0",
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/tree/master/AdaptiveRadialFollow",
