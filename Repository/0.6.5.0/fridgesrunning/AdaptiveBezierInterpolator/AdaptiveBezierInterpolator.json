@@ -2,13 +2,13 @@
     "Name": "AdaptiveBezierInterpolator",
     "Owner": "fridgesrunning",
     "Description": "DO NOT ENABLE THIS before Adaptive Radial Follow. BezierInterpolator but modified to synergize with ARF.",
-    "PluginVersion": "2.2.0.2",
+    "PluginVersion": "2.2.1.0",
     "SupportedDriverVersion": "0.6.5.0",
     "MaxSupportedDriverVersion": null,
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/tree/master/AdaptiveBezierInterpolator",
-    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ABZ2.2.0.2/AdaptiveBezierInterpolator.zip",
+    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ABZ2.2.1.0/AdaptiveBezierInterpolator.zip",
     "CompressionFormat": "zip",
-    "SHA256": "f291ad5c9dc9a5126235f4e377b0ca120c6db284d0dfc221d3a0df84fde97213",
+    "SHA256": "29dac1ff6217c909a8c22b2624949e338131cb80a5f35e2ab7733164c8172c1d",
     "WikiUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/blob/master/AdaptiveBezierInterpolator/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
