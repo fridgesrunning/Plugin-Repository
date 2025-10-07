@@ -2,12 +2,12 @@
     "Name": "Adaptive Radial Follow",
     "Owner": "fridgesrunning",
     "Description": "ATTENTION!!! Install and enable this BEFORE any interpolator, like temporal (smooth cursortrail acts weird) or \nAdaptiveBezierInterpolator (might have the slightest bit of latency, but works better with smooth cursortrail.) \nThis is AbstractQBit's Radial Follow, but modified to not do anything if certain conditions are met",
-    "PluginVersion": "2.0.2.1",
+    "PluginVersion": "2.0.2.2",
     "SupportedDriverVersion": "0.6.5.0",
     "RepositoryUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/tree/master/AdaptiveRadialFollow",
-    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ARF2.0.2.1/AdaptiveRadialFollow.zip",
+    "DownloadUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/releases/download/ARF2.0.2.2/AdaptiveRadialFollow.zip",
     "CompressionFormat": "zip",
-    "SHA256": "cb2c89a5b99b65a9ef15a4d1b8c57c6efb5bd823dedec26b6cc03e0c86818791",
+    "SHA256": "fbe370ea7a818246a11117768ed67d089e7efda62a2c20d05dee995c4f90d96f",
     "WikiUrl": "https://github.com/fridgesrunning/AbstractOTDPlugins/blob/master/AdaptiveRadialFollow/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
